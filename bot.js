@@ -4,8 +4,9 @@ const PORT = process.env.PORT || 5000;
 const https = require("https");
 const secToPing = 300000;
 const discord = require("discord.js");
+const config = require("./config/config.json");
 const bot = new discord.Client();
-const token = "secret-key";
+const token = config.token;
 
 // Pings app to keep alive
 setInterval(function() {
