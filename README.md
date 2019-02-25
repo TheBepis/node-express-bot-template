@@ -46,6 +46,8 @@ Deploy app through Heroku
 
 * config/config.json
 	- Token goes here
+* package.json
+	- Update parameters to match bot name
 
 ## Authors
 
