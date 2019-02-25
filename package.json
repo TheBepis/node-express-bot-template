@@ -1,5 +1,5 @@
 {
-  "name": "diobotbeepboop",
+  "name": "Bot",
   "version": "1.0.0",
   "description": "Bot",
   "main": "bot.js",
@@ -18,7 +18,7 @@
     "url": "https://github.com/heroku/node-js-getting-started"
   },
   "keywords": [
-    "dio"
+    "Bot"
   ],
   "author": "mphe",
   "license": "ISC"
