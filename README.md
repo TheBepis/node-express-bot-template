@@ -18,6 +18,7 @@ Must know how to use heroku, node, express, and discord.js
 
 Before running be sure to add token in config.json for bot obtained from discord site.
 
+** WARNING DO NOT SHARE YOUR TOKEN! **
 
 Clone Repo
 
